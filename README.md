@@ -11,4 +11,9 @@ git commit -m "описание" - фиксирует проект
 
 git push - отправить изменения на гит
   
-проверка файла на самом гит
+git brunch - посмотреть на какой ветке сейчас находимся
+git brunch test - создать ветку test
+git brunch -D test - удалить ветку test
+git checkout test - перейти в ветку test
+
+
